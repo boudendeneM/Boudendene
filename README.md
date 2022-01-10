@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Boudendene
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Boudendene/Boudendene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 البرمجة و الاختراق الاخلاقي 
+- 🌱 تعلم الترمكس و الكالي لينكس 
+- 💞️ تعليم ما تعلمناه سابقا 
+مرحبا بكم في قناة ..نحن هنا للتعلم وليس للاختراق ..لنحمي أنفسنا  من الاختراق
